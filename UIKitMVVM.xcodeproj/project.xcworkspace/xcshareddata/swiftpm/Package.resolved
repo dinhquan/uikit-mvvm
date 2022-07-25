@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CombineCocoa",
+        "repositoryURL": "https://github.com/CombineCommunity/CombineCocoa",
+        "state": {
+          "branch": null,
+          "revision": "4e262c2f9fb1cee1cb3be5717f7e6b55eb823971",
+          "version": "0.4.0"
+        }
+      },
+      {
+        "package": "Swinet",
+        "repositoryURL": "https://github.com/dinhquan/Swinet",
+        "state": {
+          "branch": null,
+          "revision": "dc9c79bdcc9478d74b49aaf2020645d0f8bac235",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
